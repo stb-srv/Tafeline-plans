@@ -1,6 +1,6 @@
-# @meraki/plans
+# @tafeline/plans
 
-Gemeinsame Lizenz-Plan-Definitionen für **Meraki CMS** und **Meraki License Server** — die einzige Quelle der Wahrheit für `PLAN_DEFINITIONS` und `PLAN_MODULES`.
+Gemeinsame Lizenz-Plan-Definitionen für **Tafeline CMS** und **Tafeline License Server** — die einzige Quelle der Wahrheit für `PLAN_DEFINITIONS` und `PLAN_MODULES`.
 
 ## Verwendung
 
@@ -8,24 +8,24 @@ Als Git-Dependency in `package.json`:
 
 ```json
 "dependencies": {
-    "@meraki/plans": "github:stb-srv/meraki-plans"
+    "@tafeline/plans": "github:stb-srv/tafeline-plans"
 }
 ```
 
-CommonJS (meraki-cms):
+CommonJS (tafeline-cms):
 
 ```js
-const { PLAN_DEFINITIONS, PLAN_MODULES } = require('@meraki/plans');
+const { PLAN_DEFINITIONS, PLAN_MODULES } = require('@tafeline/plans');
 ```
 
-ESM (meraki-licens):
+ESM (tafeline-licens):
 
 ```js
-import { PLAN_DEFINITIONS, PLAN_MODULES } from '@meraki/plans';
+import { PLAN_DEFINITIONS, PLAN_MODULES } from '@tafeline/plans';
 ```
 
 ## Regeln
 
 - Plan-Definitionen **nur hier** bearbeiten — nie in den konsumierenden Projekten duplizieren.
-- Nach Änderungen in den Konsumenten `npm update @meraki/plans` ausführen, damit die neue Version gezogen wird.
+- Nach Änderungen in den Konsumenten `npm update @tafeline/plans` ausführen, damit die neue Version gezogen wird.
 - Modul-Namen immer über die `PLAN_MODULES`-Konstanten referenzieren, nicht als String-Literale.

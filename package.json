@@ -1,7 +1,7 @@
 {
-  "name": "@meraki/plans",
+  "name": "@tafeline/plans",
   "version": "1.0.0",
-  "description": "Shared license plan definitions for Meraki CMS and License Server",
+  "description": "Shared license plan definitions for Tafeline CMS and License Server",
   "main": "index.js",
   "exports": {
     ".": {

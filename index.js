@@ -1,11 +1,11 @@
 'use strict';
 
 /**
- * @meraki/plans — Einzige Quelle der Wahrheit für alle Lizenz-Plan-Definitionen.
- * Wird von meraki-cms (CommonJS) und meraki-licens (ESM) gleichermaßen genutzt.
+ * @tafeline/plans — Einzige Quelle der Wahrheit für alle Lizenz-Plan-Definitionen.
+ * Wird von tafeline-cms (CommonJS) und tafeline-licens (ESM) gleichermaßen genutzt.
  *
  * Modul-Namen als Konstanten verwenden um Tipp-Fehler zu vermeiden:
- *   const { PLAN_MODULES } = require('@meraki/plans');
+ *   const { PLAN_MODULES } = require('@tafeline/plans');
  *   requireLicense(PLAN_MODULES.RESERVATIONS);
  */
 
