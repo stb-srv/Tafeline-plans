@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" alt="Tafeline Plans" width="320" /></p>
+
 # @tafeline/plans
 
 Gemeinsame Lizenz-Plan-Definitionen für **Tafeline CMS** und **Tafeline License Server** — die einzige Quelle der Wahrheit für `PLAN_DEFINITIONS` und `PLAN_MODULES`.
