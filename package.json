@@ -9,5 +9,11 @@
       "import": "./index.mjs",
       "default": "./index.js"
     }
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
