@@ -1,0 +1,544 @@
+[
+  {
+    "path": "tafeline-cms/web/public/apple-touch-icon.png",
+    "bytes": 5028,
+    "sha256": "cd2a7be9716665217da350dc2eea59bf89d8b9e2ac8b49133c56dd98bc9e870d",
+    "width": 180,
+    "height": 180,
+    "format": "PNG",
+    "transparent": false
+  },
+  {
+    "path": "tafeline-cms/web/public/apple-touch-icon.svg",
+    "bytes": 2624,
+    "sha256": "01004183c98164e29a001a105749d9f5dbbd579e578c5ef3a296595946871378",
+    "width": 1024,
+    "height": 1024,
+    "native_vector": true
+  },
+  {
+    "path": "tafeline-cms/web/public/assets/empty/empty-feedback.png",
+    "bytes": 11427,
+    "sha256": "16c624757473bffdd95908b27bd191f496b8173282742f2e45ec589f6f7f61c8",
+    "width": 480,
+    "height": 360,
+    "format": "PNG",
+    "transparent": true
+  },
+  {
+    "path": "tafeline-cms/web/public/assets/empty/empty-feedback.svg",
+    "bytes": 661,
+    "sha256": "95781856d79a799e7516ae68c7a7ebdb4cdc3c4a2aced109ff773c105edb9dee",
+    "width": 480,
+    "height": 360,
+    "native_vector": true
+  },
+  {
+    "path": "tafeline-cms/web/public/assets/empty/empty-menu.png",
+    "bytes": 13626,
+    "sha256": "d9d208f4ec2ad37e6bc755a1a2ff5ccfc23592e7c7b74bba5341e7481fe61a37",
+    "width": 480,
+    "height": 360,
+    "format": "PNG",
+    "transparent": true
+  },
+  {
+    "path": "tafeline-cms/web/public/assets/empty/empty-menu.svg",
+    "bytes": 977,
+    "sha256": "f6709ebe0ff5302368b1de25224b02c39ae80908d46747304dd78f45f2c1db2d",
+    "width": 480,
+    "height": 360,
+    "native_vector": true
+  },
+  {
+    "path": "tafeline-cms/web/public/assets/empty/empty-orders.png",
+    "bytes": 13664,
+    "sha256": "761a94cc9e68ba08b09b09bda369bf83139461bc620ab462a42cb22906386514",
+    "width": 480,
+    "height": 360,
+    "format": "PNG",
+    "transparent": true
+  },
+  {
+    "path": "tafeline-cms/web/public/assets/empty/empty-orders.svg",
+    "bytes": 942,
+    "sha256": "894321bec58bd944f4ac3c247cf6da5459275f4dd0a37485dce0a17c075b4a82",
+    "width": 480,
+    "height": 360,
+    "native_vector": true
+  },
+  {
+    "path": "tafeline-cms/web/public/assets/empty/empty-reservations.png",
+    "bytes": 9964,
+    "sha256": "b1f779610a220c8895ae031275d06bd9a33e7d557092dd113096e653f911e0e2",
+    "width": 480,
+    "height": 360,
+    "format": "PNG",
+    "transparent": true
+  },
+  {
+    "path": "tafeline-cms/web/public/assets/empty/empty-reservations.svg",
+    "bytes": 1877,
+    "sha256": "405ae654fc957818ba29a1f6a1cf49ee43b426ee66dbf73c88d5e85080d117f4",
+    "width": 480,
+    "height": 360,
+    "native_vector": true
+  },
+  {
+    "path": "tafeline-cms/web/public/assets/empty/empty-tables.png",
+    "bytes": 9172,
+    "sha256": "247dbd2990679933ff5e8b019e309585227918118e5dea279272b750405b3ce2",
+    "width": 480,
+    "height": 360,
+    "format": "PNG",
+    "transparent": true
+  },
+  {
+    "path": "tafeline-cms/web/public/assets/empty/empty-tables.svg",
+    "bytes": 1054,
+    "sha256": "68bb3315d1a3acb5f2a54eebd169a9bfbfea18a8d6853e52ad6f40fe545c1dfb",
+    "width": 480,
+    "height": 360,
+    "native_vector": true
+  },
+  {
+    "path": "tafeline-cms/web/public/assets/empty/error-404.png",
+    "bytes": 16720,
+    "sha256": "357ccf49a14d2d44f8a943e13cc0fff4b72cae10ef1559884b169db8c125c33b",
+    "width": 480,
+    "height": 360,
+    "format": "PNG",
+    "transparent": true
+  },
+  {
+    "path": "tafeline-cms/web/public/assets/empty/error-404.svg",
+    "bytes": 1056,
+    "sha256": "5aace7fad9440a09d6f004d2206aa2d4fdede684f9bd5f75df9f90be64b96316",
+    "width": 480,
+    "height": 360,
+    "native_vector": true
+  },
+  {
+    "path": "tafeline-cms/web/public/assets/hero-default.jpg",
+    "bytes": 352594,
+    "sha256": "823a60adc8304a6408c7db4cd4b561d93655d182ce640af1838ba241a633560a",
+    "width": 2400,
+    "height": 1350,
+    "format": "JPEG",
+    "transparent": false
+  },
+  {
+    "path": "tafeline-cms/web/public/assets/login-bg.jpg",
+    "bytes": 112029,
+    "sha256": "aa7280c86a7450978a2340ba84870315d40fc89b7b8f0083688a1bb75df0d5f1",
+    "width": 1920,
+    "height": 1080,
+    "format": "JPEG",
+    "transparent": false
+  },
+  {
+    "path": "tafeline-cms/web/public/assets/placeholder-dish.webp",
+    "bytes": 19946,
+    "sha256": "0bd8a032dd95316096fcc0eb484414de7ffb908ca27d72efc665671821aa4e5b",
+    "width": 800,
+    "height": 600,
+    "format": "WEBP",
+    "transparent": false
+  },
+  {
+    "path": "tafeline-cms/web/public/assets/setup-welcome.png",
+    "bytes": 42054,
+    "sha256": "c1cd3e5982b1a2f2bbaa132ff6521ab01238541187639978b17286bba27d94cb",
+    "width": 1200,
+    "height": 800,
+    "format": "PNG",
+    "transparent": true
+  },
+  {
+    "path": "tafeline-cms/web/public/assets/setup-welcome.svg",
+    "bytes": 2081,
+    "sha256": "e3b713ac029500261d4be20f847a1f40b1cd3d407af5d73d5a783d8b9809b1f8",
+    "width": 1200,
+    "height": 800,
+    "native_vector": true
+  },
+  {
+    "path": "tafeline-cms/web/public/email/powered-by-tafeline.png",
+    "bytes": 6124,
+    "sha256": "3286d4e4463231505aa328bd078ec1c704d7eb64cfdafba272e3082403eebfca",
+    "width": 400,
+    "height": 80,
+    "format": "PNG",
+    "transparent": true
+  },
+  {
+    "path": "tafeline-cms/web/public/email/powered-by-tafeline.svg",
+    "bytes": 12403,
+    "sha256": "732165140d3ad3a4ad7a8bcc23677a1399dd2c1eb51cc8feb9d26fc2c4a5a53f",
+    "width": 800,
+    "height": 160,
+    "native_vector": true
+  },
+  {
+    "path": "tafeline-cms/web/public/email/powered-by-tafeline@2x.png",
+    "bytes": 13477,
+    "sha256": "418a2a72f0bac8f1fced9e2adeccd3a5e1f7149a166a05560a3f75d3201dd492",
+    "width": 800,
+    "height": 160,
+    "format": "PNG",
+    "transparent": true
+  },
+  {
+    "path": "tafeline-cms/web/public/favicon.ico",
+    "bytes": 4120,
+    "sha256": "1acbaa3ab2b3c75bf74ff982e10ea2eab049ede8b2265b73aa50498af6d6d7ed",
+    "width": 48,
+    "height": 48,
+    "format": "ICO",
+    "transparent": true,
+    "sizes": [
+      [
+        16,
+        16
+      ],
+      [
+        32,
+        32
+      ],
+      [
+        48,
+        48
+      ]
+    ]
+  },
+  {
+    "path": "tafeline-cms/web/public/favicon.png",
+    "bytes": 21561,
+    "sha256": "2c63bc8025c94c1083c4f567a449b681478ec4317ee5f1c2eb2a87ab2171ad1a",
+    "width": 512,
+    "height": 512,
+    "format": "PNG",
+    "transparent": true
+  },
+  {
+    "path": "tafeline-cms/web/public/favicon.svg",
+    "bytes": 2636,
+    "sha256": "e47a068c8ed85adda360a7c8ce24183d0132d2f6bedbbe73bc2602ce1e3d9495",
+    "width": 1024,
+    "height": 1024,
+    "native_vector": true
+  },
+  {
+    "path": "tafeline-cms/web/public/icon-192.png",
+    "bytes": 5227,
+    "sha256": "a37694154f9e35886fb77b0e365a0d898536b82642941da0a3a42b9d76f37adb",
+    "width": 192,
+    "height": 192,
+    "format": "PNG",
+    "transparent": false
+  },
+  {
+    "path": "tafeline-cms/web/public/icon-192.svg",
+    "bytes": 2624,
+    "sha256": "01004183c98164e29a001a105749d9f5dbbd579e578c5ef3a296595946871378",
+    "width": 1024,
+    "height": 1024,
+    "native_vector": true
+  },
+  {
+    "path": "tafeline-cms/web/public/icon-512.png",
+    "bytes": 16391,
+    "sha256": "c97db47e824f82a68a4aa4741a4324e27f570ca89724aeb30ed01aa53e0fa729",
+    "width": 512,
+    "height": 512,
+    "format": "PNG",
+    "transparent": false
+  },
+  {
+    "path": "tafeline-cms/web/public/icon-512.svg",
+    "bytes": 2624,
+    "sha256": "01004183c98164e29a001a105749d9f5dbbd579e578c5ef3a296595946871378",
+    "width": 1024,
+    "height": 1024,
+    "native_vector": true
+  },
+  {
+    "path": "tafeline-cms/web/public/icon-maskable-512.png",
+    "bytes": 15343,
+    "sha256": "cc8ca7541584ac8065226197fef8462a6202c0444dd49cf3e84251179f922668",
+    "width": 512,
+    "height": 512,
+    "format": "PNG",
+    "transparent": false
+  },
+  {
+    "path": "tafeline-cms/web/public/icon-maskable-512.svg",
+    "bytes": 2624,
+    "sha256": "eb77637beefa3a888fde8dabede2d341ed69a78fc2126019bb2050c319e01b9a",
+    "width": 1024,
+    "height": 1024,
+    "native_vector": true
+  },
+  {
+    "path": "tafeline-cms/web/public/logo-dark.png",
+    "bytes": 59408,
+    "sha256": "367d76667e73e3ccd22056acb052ac19270c091610a96f48495aa95b4d0cbd68",
+    "width": 2172,
+    "height": 724,
+    "format": "PNG",
+    "transparent": true
+  },
+  {
+    "path": "tafeline-cms/web/public/logo-dark.svg",
+    "bytes": 9506,
+    "sha256": "32d53b971a29d3f08859e296877fc4b5a55af9811b6fa117a6ee4537b4870519",
+    "width": 2172,
+    "height": 724,
+    "native_vector": true
+  },
+  {
+    "path": "tafeline-cms/web/public/logo-mark.png",
+    "bytes": 34405,
+    "sha256": "df439e15c8653168809cd28737917ea2d101c4159a70635bc15f7227c550a885",
+    "width": 1024,
+    "height": 1024,
+    "format": "PNG",
+    "transparent": true
+  },
+  {
+    "path": "tafeline-cms/web/public/logo-mark.svg",
+    "bytes": 2575,
+    "sha256": "ecdee752ad8328c6500f89fd5d930226a8599cce247bf74983d5907d75eff27a",
+    "width": 1024,
+    "height": 1024,
+    "native_vector": true
+  },
+  {
+    "path": "tafeline-cms/web/public/logo-wordmark.png",
+    "bytes": 67444,
+    "sha256": "8b9e6583e160134d9e0a993238c6adf6eda11bb442312077e75e992cc606a775",
+    "width": 2172,
+    "height": 724,
+    "format": "PNG",
+    "transparent": true
+  },
+  {
+    "path": "tafeline-cms/web/public/logo-wordmark.svg",
+    "bytes": 9506,
+    "sha256": "8d08daf648d208c0b6d3536b115be127083209bb8c6b4eb52596da364fc5bdac",
+    "width": 2172,
+    "height": 724,
+    "native_vector": true
+  },
+  {
+    "path": "tafeline-cms/web/public/manifest.webmanifest",
+    "bytes": 594,
+    "sha256": "8827091b4febfc47a0bd5b2102d421a13c96338ee0bcacb44a8a496ac1028afe"
+  },
+  {
+    "path": "tafeline-cms/web/public/og-image.png",
+    "bytes": 611304,
+    "sha256": "4a501c47c084a896a75e2d40d1cf58c04176aad0c9ae25952ae0120e49968ec7",
+    "width": 1200,
+    "height": 630,
+    "format": "PNG",
+    "transparent": false
+  },
+  {
+    "path": "tafeline-licens/public/logo-invoice-tight.png",
+    "bytes": 43928,
+    "sha256": "fa626153bb8f3ecdc429716405a89bbe6c2ccfeeb39f3c20483dc4a1f33d54cb",
+    "width": 1334,
+    "height": 257,
+    "format": "PNG",
+    "transparent": true
+  },
+  {
+    "path": "tafeline-licens/public/logo-wordmark.svg",
+    "bytes": 9506,
+    "sha256": "8d08daf648d208c0b6d3536b115be127083209bb8c6b4eb52596da364fc5bdac",
+    "width": 2172,
+    "height": 724,
+    "native_vector": true
+  },
+  {
+    "path": "tafeline-licens/public/tafeline_license.png",
+    "bytes": 39375,
+    "sha256": "466074721cc059d9e577a3fae608ad939e9a5c27ed79eaff8c8f33e22c7478ae",
+    "width": 1500,
+    "height": 500,
+    "format": "PNG",
+    "transparent": true
+  },
+  {
+    "path": "tafeline-licens/web/public/apple-touch-icon.png",
+    "bytes": 5028,
+    "sha256": "cd2a7be9716665217da350dc2eea59bf89d8b9e2ac8b49133c56dd98bc9e870d",
+    "width": 180,
+    "height": 180,
+    "format": "PNG",
+    "transparent": false
+  },
+  {
+    "path": "tafeline-licens/web/public/assets/login-bg.jpg",
+    "bytes": 112029,
+    "sha256": "aa7280c86a7450978a2340ba84870315d40fc89b7b8f0083688a1bb75df0d5f1",
+    "width": 1920,
+    "height": 1080,
+    "format": "JPEG",
+    "transparent": false
+  },
+  {
+    "path": "tafeline-licens/web/public/assets/portal-banner.png",
+    "bytes": 481022,
+    "sha256": "53b3bc80a05ae5ab006c37dce558d14072688e54f32c35eff720a3bd0750aac9",
+    "width": 1600,
+    "height": 400,
+    "format": "PNG",
+    "transparent": false
+  },
+  {
+    "path": "tafeline-licens/web/public/assets/portal-banner.webp",
+    "bytes": 29810,
+    "sha256": "8c30c9cc94a9f96cf25a22b75ac8b38453f45ce2cedfb7ba4abdffd5ebe7eb4e",
+    "width": 1600,
+    "height": 400,
+    "format": "WEBP",
+    "transparent": false
+  },
+  {
+    "path": "tafeline-licens/web/public/favicon.ico",
+    "bytes": 4120,
+    "sha256": "1acbaa3ab2b3c75bf74ff982e10ea2eab049ede8b2265b73aa50498af6d6d7ed",
+    "width": 48,
+    "height": 48,
+    "format": "ICO",
+    "transparent": true,
+    "sizes": [
+      [
+        16,
+        16
+      ],
+      [
+        32,
+        32
+      ],
+      [
+        48,
+        48
+      ]
+    ]
+  },
+  {
+    "path": "tafeline-licens/web/public/favicon.png",
+    "bytes": 21561,
+    "sha256": "2c63bc8025c94c1083c4f567a449b681478ec4317ee5f1c2eb2a87ab2171ad1a",
+    "width": 512,
+    "height": 512,
+    "format": "PNG",
+    "transparent": true
+  },
+  {
+    "path": "tafeline-licens/web/public/favicon.svg",
+    "bytes": 2636,
+    "sha256": "e47a068c8ed85adda360a7c8ce24183d0132d2f6bedbbe73bc2602ce1e3d9495",
+    "width": 1024,
+    "height": 1024,
+    "native_vector": true
+  },
+  {
+    "path": "tafeline-licens/web/public/icon-192.png",
+    "bytes": 5227,
+    "sha256": "a37694154f9e35886fb77b0e365a0d898536b82642941da0a3a42b9d76f37adb",
+    "width": 192,
+    "height": 192,
+    "format": "PNG",
+    "transparent": false
+  },
+  {
+    "path": "tafeline-licens/web/public/icon-512.png",
+    "bytes": 16391,
+    "sha256": "c97db47e824f82a68a4aa4741a4324e27f570ca89724aeb30ed01aa53e0fa729",
+    "width": 512,
+    "height": 512,
+    "format": "PNG",
+    "transparent": false
+  },
+  {
+    "path": "tafeline-licens/web/public/icon-maskable-512.png",
+    "bytes": 15343,
+    "sha256": "cc8ca7541584ac8065226197fef8462a6202c0444dd49cf3e84251179f922668",
+    "width": 512,
+    "height": 512,
+    "format": "PNG",
+    "transparent": false
+  },
+  {
+    "path": "tafeline-licens/web/public/logo-dark.png",
+    "bytes": 59408,
+    "sha256": "367d76667e73e3ccd22056acb052ac19270c091610a96f48495aa95b4d0cbd68",
+    "width": 2172,
+    "height": 724,
+    "format": "PNG",
+    "transparent": true
+  },
+  {
+    "path": "tafeline-licens/web/public/logo-dark.svg",
+    "bytes": 9506,
+    "sha256": "32d53b971a29d3f08859e296877fc4b5a55af9811b6fa117a6ee4537b4870519",
+    "width": 2172,
+    "height": 724,
+    "native_vector": true
+  },
+  {
+    "path": "tafeline-licens/web/public/logo-mark.png",
+    "bytes": 34405,
+    "sha256": "df439e15c8653168809cd28737917ea2d101c4159a70635bc15f7227c550a885",
+    "width": 1024,
+    "height": 1024,
+    "format": "PNG",
+    "transparent": true
+  },
+  {
+    "path": "tafeline-licens/web/public/logo-mark.svg",
+    "bytes": 2575,
+    "sha256": "ecdee752ad8328c6500f89fd5d930226a8599cce247bf74983d5907d75eff27a",
+    "width": 1024,
+    "height": 1024,
+    "native_vector": true
+  },
+  {
+    "path": "tafeline-licens/web/public/logo-wordmark.png",
+    "bytes": 67444,
+    "sha256": "8b9e6583e160134d9e0a993238c6adf6eda11bb442312077e75e992cc606a775",
+    "width": 2172,
+    "height": 724,
+    "format": "PNG",
+    "transparent": true
+  },
+  {
+    "path": "tafeline-licens/web/public/logo-wordmark.svg",
+    "bytes": 9506,
+    "sha256": "8d08daf648d208c0b6d3536b115be127083209bb8c6b4eb52596da364fc5bdac",
+    "width": 2172,
+    "height": 724,
+    "native_vector": true
+  },
+  {
+    "path": "tafeline-licens/web/public/tafeline_license-dark.png",
+    "bytes": 68632,
+    "sha256": "c60a16f34d10f883dff1f3e3970b20b2ce065db83220db35a5fd91dbcfd8e067",
+    "width": 2172,
+    "height": 724,
+    "format": "PNG",
+    "transparent": true
+  },
+  {
+    "path": "tafeline-licens/web/public/tafeline_license-dark.svg",
+    "bytes": 13686,
+    "sha256": "a81884c2f5c3c9a1f3de8206467f88a46c92755a97a7637d5dff6051eb64bd3d",
+    "width": 2172,
+    "height": 724,
+    "native_vector": true
+  }
+]

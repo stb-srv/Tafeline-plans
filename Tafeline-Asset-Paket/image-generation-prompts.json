@@ -1,0 +1,108 @@
+{
+  "generator": "built-in image_gen",
+  "style": "STYLE: flat vector, clean geometric shapes, rounded corners, smooth blue-to-cyan-to-green gradient (#0a5cff to #00c2d6 to #6be03a), dark navy #0b1a33 for text, modern SaaS look, no text unless specified, no drop shadows, no mockups.",
+  "jobs": [
+    {
+      "id": "01-logo-mark",
+      "alpha": true,
+      "refs": [
+        "/workspace/scratch/364e51f6b2d2/generated_images/exec-84ef6496-4074-42cd-b70b-7e81dd09da3d.png"
+      ],
+      "prompt": "Use case: logo-brand. The attached existing Tafeline logo is the authoritative reference. Extract the existing logo mark only, without text, matching its silhouette and proportions exactly: stylized capital T whose top bar is a slanted table top in blue gradient, below it a vertical blue stem and three horizontal rounded bars in cyan, green and lime forming an E-like shape. Do not redesign it. Clean up rough edges into immaculate smooth geometric contours. Centered on a genuinely transparent square 1024x1024 canvas, generous padding with mark occupying about 70% of canvas width. No Tafeline wordmark or subtitle. STYLE: flat vector, clean geometric shapes, rounded corners, smooth blue-to-cyan-to-green gradient (#0a5cff to #00c2d6 to #6be03a), dark navy #0b1a33 for text, modern SaaS look, no text unless specified, no drop shadows, no mockups."
+    },
+    {
+      "id": "03-logo-dark",
+      "alpha": true,
+      "refs": [
+        "/workspace/scratch/364e51f6b2d2/generated_images/exec-84ef6496-4074-42cd-b70b-7e81dd09da3d.png"
+      ],
+      "prompt": "Use case: logo-brand. Edit the supplied existing neutral horizontal Tafeline logo. Preserve the exact logo mark silhouette, proportions, blue-cyan-green gradient, the \"Tafeline\" letter shapes, and layout. Change the wordmark to pure white #ffffff. No subtitle. Transparent background, horizontal 2172x724 canvas, legible on #0b1a33. Clean smooth edges. Exact text: \"Tafeline\". STYLE: flat vector, clean geometric shapes, rounded corners, smooth blue-to-cyan-to-green gradient (#0a5cff to #00c2d6 to #6be03a), dark navy #0b1a33 for text, modern SaaS look, no text unless specified, no drop shadows, no mockups. Override the style's navy text instruction: all lettering is pure white."
+    },
+    {
+      "id": "03-license-dark",
+      "alpha": true,
+      "refs": [
+        "/workspace/scratch/364e51f6b2d2/generated_images/exec-4820e01d-4dc2-43a0-86fb-2b5b06354de0.png"
+      ],
+      "prompt": "Use case: logo-brand. Edit the attached Tafeline License logo. Preserve the exact logo mark silhouette, proportions, blue-cyan-green gradient, wordmark letter shapes and arrangement, including the subtitle \"License\" beneath \"Tafeline\". Change both Tafeline and License lettering to pure white #ffffff. Genuine transparent background, horizontal 2172x724 canvas, legible on #0b1a33. Clean smooth geometric edges. Exact text: \"Tafeline\", \"License\". STYLE: flat vector, clean geometric shapes, rounded corners, smooth blue-to-cyan-to-green gradient (#0a5cff to #00c2d6 to #6be03a), dark navy #0b1a33 for text, modern SaaS look, no text unless specified, no drop shadows, no mockups. Override navy text: white text."
+    },
+    {
+      "id": "05-hero-default",
+      "alpha": false,
+      "prompt": "Use case: photorealistic-natural. Photorealistic warm interior of a modern restaurant, softly blurred background, empty wooden tables with linen and candles, golden evening light, shallow depth of field, large calm area on the left and center for overlaid white text, no people, no text, no logos, 16:9. Asset: neutral default restaurant homepage hero background. Landscape 2400x1350 composition. Keep left and central areas softly blurred and darker enough for readable white overlay text; most detail and gentle warm highlights toward right."
+    },
+    {
+      "id": "06-placeholder-dish",
+      "alpha": false,
+      "prompt": "Use case: illustration-story. Minimal illustration of an empty round plate with fork and knife seen from above, soft light gray-blue background exactly #eef3fb, thin line style, subtle gradient accent in blue to green, lots of empty space, no text. Flat overhead composition, plate centered, fork on left and knife on right, no food, no people. Landscape 800x600, 4:3. STYLE: flat vector, clean geometric shapes, rounded corners, smooth blue-to-cyan-to-green gradient (#0a5cff to #00c2d6 to #6be03a), dark navy #0b1a33 for text, modern SaaS look, no text unless specified, no drop shadows, no mockups."
+    },
+    {
+      "id": "07-og-image",
+      "alpha": false,
+      "refs": [
+        "/workspace/scratch/364e51f6b2d2/generated_images/exec-84ef6496-4074-42cd-b70b-7e81dd09da3d.png"
+      ],
+      "prompt": "Use case: ads-marketing. Social share banner 1200x630, opaque. Dark navy #0b1a33 background with subtle blue-cyan-green gradient glow in the corner, the attached Tafeline logo with WHITE wordmark and matching gradient mark at the left center. Reproduce its exact recognizable logo mark and correct wordmark spelling. Right side: a clean abstract flat illustration of a restaurant table top with floating blank menu cards and a stylized QR-code card. Generous margins, balanced space, no extra text. The QR is illustrative. Exact only text: \"Tafeline\". STYLE: flat vector, clean geometric shapes, rounded corners, smooth blue-to-cyan-to-green gradient (#0a5cff to #00c2d6 to #6be03a), dark navy #0b1a33 for text, modern SaaS look, no text unless specified, no drop shadows, no mockups. Override navy text instruction: white wordmark. Background glow only, no drop shadows on objects."
+    },
+    {
+      "id": "09-setup-welcome",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. Create one CLEAN SIMPLE FLAT VECTOR-LIKE welcome illustration, wide 3:2 composition, 1200x800, genuinely transparent background. Subject ONLY: an owner's tablet showing a dashboard at left, and a small restaurant table with one blank menu card at right. Tablet screen has a simple line chart, a donut chart and three blank rounded rows. Pale blue-gray outlines, restrained small accents in Tafeline blue #0a5cff, cyan #00c2d6 and green #6be03a. NO people. NO plants. NO chairs. NO decorations. NO glow. NO lighting or volumetric gradients. NO shadows. NO perspective shading or 3D rendering. NO background blobs, haze or filled background rectangle. Friendly flat illustration with clean geometric shapes and rounded corners; lots of whitespace. No text or numbers anywhere. The transparent background must be empty alpha outside the isolated tablet and table artwork."
+    },
+    {
+      "id": "10-powered-by-tafeline",
+      "alpha": true,
+      "refs": [
+        "/workspace/scratch/364e51f6b2d2/generated_images/exec-84ef6496-4074-42cd-b70b-7e81dd09da3d.png"
+      ],
+      "prompt": "Use case: logo-brand. Small horizontal footer badge: exact text \"Powered by\" in light gray followed by the attached existing Tafeline logo mark and the exact word \"Tafeline\" in medium gray-blue #6b7a90, flat, genuine transparent background, very small and discreet. All elements on ONE horizontal line, text and logo mark matching optical height; no subtitle. Preserve existing Tafeline T symbol and geometric rounded bold wordmark proportions, but make entire mark monochrome gray-blue #6b7a90. \"Powered by\" is lighter gray and smaller regular weight. Wide 5:1 composition, final intended size 800x160 (2x of 400x80). Tight useful composition with small clear margins. No shadows, no mockups, no background, no other text."
+    },
+    {
+      "id": "12-empty-orders",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. An empty serving tray with a small service bell, \"no orders yet\" mood, friendly flat line illustration, light blue-gray outlines, small gradient accent blue to green, lots of whitespace, no text. Isolated composition on genuine transparent background, landscape 480x360, 4:3. NO writing anywhere. STYLE: flat vector, clean geometric shapes, rounded corners, smooth blue-to-cyan-to-green gradient (#0a5cff to #00c2d6 to #6be03a), dark navy #0b1a33 for text, modern SaaS look, no text unless specified, no drop shadows, no mockups."
+    },
+    {
+      "id": "13-empty-reservations",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. A calendar page with a small restaurant table and two chairs, friendly flat line illustration, light blue-gray outlines, small gradient accent blue to green, lots of whitespace, no text. Calendar uses blank squares, no dates or numbers. Isolated centered composition on genuine transparent background, landscape 480x360, 4:3. STYLE: flat vector, clean geometric shapes, rounded corners, smooth blue-to-cyan-to-green gradient (#0a5cff to #00c2d6 to #6be03a), dark navy #0b1a33 for text, modern SaaS look, no text unless specified, no drop shadows, no mockups."
+    },
+    {
+      "id": "14-empty-menu",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. An open blank menu card with a pencil, friendly flat line illustration, light blue-gray outlines, small gradient accent blue to green, lots of whitespace, no text. No menu entries or writing, leave menu blank. Isolated centered composition on genuine transparent background, landscape 480x360, 4:3. STYLE: flat vector, clean geometric shapes, rounded corners, smooth blue-to-cyan-to-green gradient (#0a5cff to #00c2d6 to #6be03a), dark navy #0b1a33 for text, modern SaaS look, no text unless specified, no drop shadows, no mockups."
+    },
+    {
+      "id": "15-empty-tables",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. A restaurant floor plan sketch with empty round and square tables, friendly flat line illustration, light blue-gray outlines, small gradient accent blue to green, lots of whitespace, no text. Top-down floor plan, a few clear round and square tables with simple chairs, no numbers or labels. Isolated centered composition on genuine transparent background, landscape 480x360, 4:3. STYLE: flat vector, clean geometric shapes, rounded corners, smooth blue-to-cyan-to-green gradient (#0a5cff to #00c2d6 to #6be03a), dark navy #0b1a33 for text, modern SaaS look, no text unless specified, no drop shadows, no mockups."
+    },
+    {
+      "id": "16-empty-feedback",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. A speech bubble with a star outline, friendly flat line illustration, light blue-gray outlines, small gradient accent blue to green, lots of whitespace, no text. The star is empty outline inside the speech bubble; very simple clean icon-like composition. Genuine transparent background, landscape 480x360, 4:3. STYLE: flat vector, clean geometric shapes, rounded corners, smooth blue-to-cyan-to-green gradient (#0a5cff to #00c2d6 to #6be03a), dark navy #0b1a33 for text, modern SaaS look, no text unless specified, no drop shadows, no mockups."
+    },
+    {
+      "id": "17-error-404",
+      "alpha": true,
+      "prompt": "Use case: illustration-story. A plate with a cloche slightly lifted, empty inside, playful, friendly flat line illustration, light blue-gray outlines, small gradient accent blue to green, lots of whitespace, no text. The lifted serving dome reveals an empty plate, no food and no people; small subtle blue-green accent sparkles. Genuine transparent background, landscape 480x360, 4:3. No \"404\" lettering or any other text. STYLE: flat vector, clean geometric shapes, rounded corners, smooth blue-to-cyan-to-green gradient (#0a5cff to #00c2d6 to #6be03a), dark navy #0b1a33 for text, modern SaaS look, no text unless specified, no drop shadows, no mockups."
+    },
+    {
+      "id": "18-login-bg",
+      "alpha": false,
+      "prompt": "Use case: stylized-concept. Abstract soft background, dark navy #0b1a33 to deep blue gradient with faint geometric table-top shapes and thin cyan and green light lines, subtle noise, very low contrast so a login card remains readable, no text. 16:9 landscape 1920x1080. Extremely restrained tonal pattern, large quiet central region for login card, soft geometric tabletop shapes toward edges. No logo, no bright objects, no glow halos, no UI mockup."
+    },
+    {
+      "id": "19-portal-banner",
+      "alpha": false,
+      "prompt": "Use case: illustration-story. Wide panoramic banner 1600x400 (4:1), soft light background with abstract license-key and shield icons floating over a subtle blue-cyan-green gradient, flat vector, calm, no text. A few well-spaced geometric outline key and shield icons toward left and right, especially quiet center, all important motifs contained in central shallow horizontal band to retain 4:1 crop. Soft airy professional SaaS appearance. STYLE: flat vector, clean geometric shapes, rounded corners, smooth blue-to-cyan-to-green gradient (#0a5cff to #00c2d6 to #6be03a), dark navy #0b1a33 for text, modern SaaS look, no text unless specified, no drop shadows, no mockups."
+    }
+  ],
+  "derived_assets": {
+    "2": "Existing neutral Tafeline logo reused as authoritative reference, outlined SVG paths and PNG export.",
+    "4": "Derived from the shared logo mark on a 22% rounded dark navy tile; PNG 512 and ICO 16/32/48.",
+    "8": "Derived from the shared logo mark: full-bleed navy tile, 55% mark width; maskable 45%.",
+    "11": "Derived from the neutral wordmark, 1500x500; extra tight crop included."
+  },
+  "vector_exports": "Clean native SVG geometry based on existing brand and generated illustration references; final geometric SVGs contain no embedded raster images."
+}

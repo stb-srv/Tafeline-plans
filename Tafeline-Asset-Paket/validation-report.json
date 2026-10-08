@@ -1,0 +1,20 @@
+{
+  "result": "passed",
+  "project_files": 60,
+  "svg_files": 22,
+  "hero_bytes": 352594,
+  "login_bytes": 112029,
+  "maskable_mark_bbox": [
+    143,
+    171,
+    367,
+    340
+  ],
+  "ico_sizes": [
+    16,
+    32,
+    48
+  ],
+  "native_svg_check": "No embedded raster images; XML valid",
+  "visual_review": "All 19 positions reviewed in overview; logo light/dark and transparent illustrations reviewed separately"
+}
